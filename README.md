@@ -1,5 +1,5 @@
 # Knock knock — it’s code o’clock!
-## ✨ About Me (a.k.a. The Code Queen)
+
 
 Hey there! I’m **Anshi Tyagi** – part-time coder, full-time problem solver, and unofficial team motivator with a dash of sarcasm and a whole lot of skills. 👩‍💻 I’m a 4th-year Computer Science student at NIET, walking the fine line between *clouds* (AWS & GCP certified 🌩️) and *code*. Whether it’s building sleek frontend interfaces with React, automating mark sheet generation in Python, or pitching projects at hackathons with 4 hours of sleep and too much caffeine — I do it all, and I do it with flair. Not just a dev — I’ve worn the hats of **President**, **Vice President**, and **Student Placement Coordinator**, proving that I can lead, code, organize, and still deliver on deadlines like a boss. When I’m not writing clean code or taming tech stacks, you’ll find me casually debugging the universe, mentoring peers, or turning every group project into a fun experience (with memes included). If you like your developers talented, driven, and a little bit sassy — you’ve just found one. 💁‍♀️ <br>
 🚀 *Let’s build something amazing… or at least something that doesn’t break in production.*  
